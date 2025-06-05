@@ -45,6 +45,7 @@ Maintenant le serveur démarrera les parties avec les différentes maps selon le
 
 Contacte
 --
-Mail: loadash@speed-heberg.fr
-Site: [loadash.tech](https://loadash.tech/)
+Mail: loadash@byflash.fr
+Site: [loadash.byflash.fr](https://loadash.byflash.fr/)
 Discord: fliserpolux
+Par: Byflash
