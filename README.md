@@ -46,6 +46,6 @@ Maintenant le serveur démarrera les parties avec les différentes maps selon le
 Contacte
 --
 Mail: betinellipaul@byflash.fr
-Site: [byflash.fr](https://byflash.fr/)
+Site: [paulzelik.fr](https://paulzelik.fr/)
 Discord: paulzelik
 Par: Byflash
