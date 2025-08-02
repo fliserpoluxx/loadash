@@ -47,5 +47,5 @@ Contacte
 --
 Mail: loadash@byflash.fr
 Site: [loadash.byflash.fr](https://loadash.byflash.fr/)
-Discord: fliserpolux
+Discord: paulzelik
 Par: Byflash
