@@ -46,6 +46,6 @@ Maintenant le serveur démarrera les parties avec les différentes maps selon le
 Contacte
 --
 Mail: loadash@byflash.fr
-Site: [loadash.byflash.fr](https://loadash.byflash.fr/)
+Site: [byflash.fr](https://byflash.fr/)
 Discord: paulzelik
 Par: Byflash
